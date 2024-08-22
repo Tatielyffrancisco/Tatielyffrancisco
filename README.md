@@ -4,7 +4,7 @@ Meu nome é Tatiely
 
 - Estou estudando no alura
 - Estou desenvolvendo na linguagem JavaScript
-- Utilizo esse espaço para minha organização e compartilhamento dos mehs projetos desenvolvidos
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 - ### Você entrar em contato comigo 👥
 
